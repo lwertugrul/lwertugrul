@@ -67,8 +67,3 @@
 [website]: https://layer.web.tr
 [twitter]: https://twitter.com/ByT13R
 [youtube]: https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw
-
----
-
-### Mail: info@layerweb.com.tr
-98F7 FA0A 1C35 7D30 7E4C  BE74 5499 ACE6 E163 ECF2
