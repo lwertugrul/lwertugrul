@@ -18,7 +18,7 @@
 ### 📺 Current YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Otomatik İpv6 Proxy Server Kurulum Betiği](https://www.youtube.com/watch?v=UZfALUON3k8)
+- [Otomatik İpv6 Proxy Server Kurulum](https://www.youtube.com/watch?v=UZfALUON3k8)
 - [Teamspeak Blacklist Hatası Çözümü/Bypass - Sadece 3 Adımda!](https://www.youtube.com/watch?v=kbhD6pdQq38)
 - [RouterOS Install Ubuntu 20.04/22.04 - Mikrotik CHR](https://www.youtube.com/watch?v=b8KmlZmcw1s)
 - [Vddos sensor plugin &lpar;Layer7 AntiDDoS System&rpar;](https://www.youtube.com/watch?v=f9jMMMqAnVU)
