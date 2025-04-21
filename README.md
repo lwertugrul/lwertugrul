@@ -18,11 +18,11 @@
 ### 📺 Current YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Otomatik İpv6 Proxy Server Kurulum Betiği](https://www.youtube.com/watch?v=UZfALUON3k8)
 - [Teamspeak Blacklist Hatası Çözümü/Bypass - Sadece 3 Adımda!](https://www.youtube.com/watch?v=kbhD6pdQq38)
 - [RouterOS Install Ubuntu 20.04/22.04 - Mikrotik CHR](https://www.youtube.com/watch?v=b8KmlZmcw1s)
 - [Vddos sensor plugin &lpar;Layer7 AntiDDoS System&rpar;](https://www.youtube.com/watch?v=f9jMMMqAnVU)
 - [SimpleFirewall - Windows Bilgisayar Güvenliği &lpar;Trojan / Keylogger Network Katmanında Engelleme&rpar;](https://www.youtube.com/watch?v=AttWFvxSJTI)
-- [TROJAN VİRÜS &lpar;TRUVA ATI VİRÜSÜ&rpar; OLDUĞUNU TESPİT ETME - 2024](https://www.youtube.com/watch?v=bpbOExGTa9U)
 <!-- YOUTUBE:END -->
 
 ➡️ [More...](https://www.youtube.com/channel/UCM1G2CgjxYaGhvMF5Ri3Zjw)
