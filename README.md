@@ -32,11 +32,11 @@
 ### 📕 Local(🇹🇷) Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[No Title] - Post](https://blog.layer.web.tr/posts/2025-09-25-updatefinal/)
 - [Linux Jargonu Hakkında Teknik Kılavuz](https://blog.layer.web.tr/posts/linux-jargonlari-hakkinda-kilavuz/)
 - [Linux Sublime Text 4 Lisanslama](https://blog.layer.web.tr/posts/sublime-text-4-unlimiteduserlisance/)
 - [Ubuntu veri toplamasını engelleme](https://blog.layer.web.tr/posts/ubuntu-mahremiyet-ayarlari/)
 - [RouterOS Adresslist Otomasyonları](https://blog.layer.web.tr/posts/mikrotik-adresslist-otomasyonlar/)
+- [Teamspeak 3 This server is blacklisted Fix](https://blog.layer.web.tr/posts/teamspeak-client-blacklist-bypass/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More...](https://blog.layer.web.tr)
